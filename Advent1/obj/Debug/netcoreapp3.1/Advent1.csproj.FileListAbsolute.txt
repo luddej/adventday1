@@ -1,0 +1,11 @@
+C:\Users\ljonsson\source\repos\Advent1\Advent1\bin\Debug\netcoreapp3.1\Advent1.exe
+C:\Users\ljonsson\source\repos\Advent1\Advent1\bin\Debug\netcoreapp3.1\Advent1.deps.json
+C:\Users\ljonsson\source\repos\Advent1\Advent1\bin\Debug\netcoreapp3.1\Advent1.runtimeconfig.json
+C:\Users\ljonsson\source\repos\Advent1\Advent1\bin\Debug\netcoreapp3.1\Advent1.runtimeconfig.dev.json
+C:\Users\ljonsson\source\repos\Advent1\Advent1\bin\Debug\netcoreapp3.1\Advent1.dll
+C:\Users\ljonsson\source\repos\Advent1\Advent1\bin\Debug\netcoreapp3.1\Advent1.pdb
+C:\Users\ljonsson\source\repos\Advent1\Advent1\obj\Debug\netcoreapp3.1\Advent1.csprojAssemblyReference.cache
+C:\Users\ljonsson\source\repos\Advent1\Advent1\obj\Debug\netcoreapp3.1\Advent1.AssemblyInfoInputs.cache
+C:\Users\ljonsson\source\repos\Advent1\Advent1\obj\Debug\netcoreapp3.1\Advent1.AssemblyInfo.cs
+C:\Users\ljonsson\source\repos\Advent1\Advent1\obj\Debug\netcoreapp3.1\Advent1.dll
+C:\Users\ljonsson\source\repos\Advent1\Advent1\obj\Debug\netcoreapp3.1\Advent1.pdb
